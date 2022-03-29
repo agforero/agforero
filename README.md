@@ -8,7 +8,7 @@
 - 📚 Teaching computer science for about 4 years, including high schoolers, college students and senior citizens
 - 🏛 Chief Technology Officer of the St. Olaf Student Government Association, 2020-2021
 - 🧮 Co-founder and Vice President of the Algorithms Club at St. Olaf
-- 📫 You can reach me at agf48@cornell.edu.
+- 📫 You can reach me at agf48@cornell.edu
 
 <!---
 agforero/agforero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
