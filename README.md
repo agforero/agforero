@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @agforero!
+- 👋 Hi, I’m Agustin (AW-guh-steen)!
 - 💼 Will begin work as a software designer at InterSystems Corporation in Cambridge, MA in July
 - 🐻 Studying my MEng in Computer Science at Cornell Tech (Cornell University campus in NYC)
 - 🦁 Went to St. Olaf College for my BA Double Major in History and Computer Science
