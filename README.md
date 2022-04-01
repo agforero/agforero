@@ -7,7 +7,7 @@
 - 👨‍🔬 Member of the Society for Industrial and Applied Mathematics since 2020
 - 📚 Teaching computer science for about 4 years, including high schoolers, college students and senior citizens
 - 🏛 Chief Technology Officer of the St. Olaf Student Government Association, 2020-2021
-- 🧮 Co-founder and Vice President of the Algorithms Club at St. Olaf
+- 🧮 Co-founder and Vice President of the Algorithms Club at St. Olaf, 2020-2021
 - 📮 You can reach me at agf48@cornell.edu!
 
 <!---
