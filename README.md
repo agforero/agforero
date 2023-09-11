@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Agustin (AWE-guh-steen) (or, really, [ah-goo-STEEN](https://youtu.be/MpW5oWWzteM), but the first one is easier)!
-- 💼 Release Engineer at [InterSystems, Inc.](https://www.intersystems.com/) in Cambridge, MA
+- 💼 Founding Software Engineer at [Abstractive Health](https://github.com/Abstractive-Health) in New York, NY
 - 🐻 Studied my MEng in Computer Science at Cornell Tech (Cornell University campus in NYC)
 - 🦁 Studied at St. Olaf College for my BA Double Major in History and Computer Science
 - 💻 Interned at Argonne National Laboratory in 2020 researching compilers and computational science
