@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Agustin (AWE-guh-steen) (or, really, [ah-goo-STEEN](https://youtu.be/MpW5oWWzteM), but the first one is easier)!
-- 💼 Founding Software Engineer at [Abstractive Health](https://www.abstractivehealth.com/) in New York, NY
+- 💼 Founding Mid-Level Software Engineer at [Abstractive Health](https://www.abstractivehealth.com/) in New York, NY
 - 💼 Ex-Release Engineer at [InterSystems](https://www.intersystems.com/), in Cambridge, MA
 - 🐻 Studied my MEng in Computer Science at [Cornell Tech](https://tech.cornell.edu/) (Cornell University campus in NYC)
 - 🦁 Studied at St. Olaf College for my BA Double Major in History and Computer Science
